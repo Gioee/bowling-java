@@ -1,0 +1,90 @@
+MODALITÀ DI GIOCO
+
+Il gioco consiste nel far cadere il maggior numero di birilli,
+su un totale di dieci, facendo rotolare contro di essi una
+boccia provvista di tre fori nei quali vanno infilati il dito
+pollice, il medio e l’anulare. I birilli sono disposti a forma
+di triangolo equilatero all’estremità di un lunga pista. Il
+gioco si svolge su una pista in legno o materiale sintetico
+dove la palla percorre la sua traiettoria nella pista fino ai birilli.
+
+Una partita di bowling a dieci birilli consiste in 10 sessioni
+di tiro denominati frame. Un giocatore lancia due volte la boccia
+in ognuno dei primi nove frame, a meno che non realizzi uno
+strike, in questo caso ha diritto ad un solo lancio. Nel decimo
+e ultimo frame il giocatore effettua tre tiri nel caso in cui
+realizzi uno strike o uno spare. Il punteggio viene annotato
+in una apposita scheda con 10 caselle principali, una per ogni
+turno di gioco. Tranne che nei casi in cui viene realizzato
+uno strike, il numero dei birilli abbattuti con il primo lancio
+deve essere indicato nel piccolo riquadro in corrispondenza
+dell’angolo superiore sinistro di quel frame, e il numero
+dei birilli abbattuti con il secondo lancio nell’angolo superiore
+destro dello stesso frame. Se nessun birillo viene abbattuto
+con il secondo lancio dello stesso frame, il foglio punti
+verrà contrassegnato con un meno.
+
+
+I PUNTEGGI
+
+> Lo Strike
+E' realizzato quando tutti i birilli vengono abbattuti con
+il primo lancio del frame. Viene indicato da una X nel piccolo
+riquadro in corrispondenza dell’angolo superiore sinistro
+del frame in cui viene realizzato. Il conteggio per uno strike
+è pari a 10 più il numero dei birilli abbattuti dal giocatore
+nei due lanci successivi. Nel caso in cui il primo tiro
+successivo sia un altro strike, si deve pertanto attendere un
+ulteriore turno prima di poter computare i punti. Il punteggio
+massimo ottenibile per singolo turno è perciò di 30 nel caso
+si riescano a ottenere 3 strike di seguito. Un doppio consiste
+in due strike consecutivi. Il conteggio per il primo strike
+è pari a 20 più il numero dei birilli abbattuti con il primo
+lancio effettuato dopo il secondo strike. Un triplo consiste
+in tre strike consecutivi. In teoria il punteggio massimo che
+un giocatore può raggiungere in una singola partita è 300,
+totale dato dalla somma di 12 strike consecutivi.
+
+> Lo Spare
+Si ottiene quando i birilli rimasti in piedi dopo il primo lancio,
+vengono abbattuti con il secondo lancio realizzato in quel frame.
+Viene indicato da un / nel piccolo riquadro in corrispondenza
+dell’angolo superiore destro del frame. Il conteggio per uno
+spare è pari a 10 più il numero dei birilli abbattuti dal
+giocatore con il lancio successivo. Il punteggio da segnare
+nella casella del tiro viene lasciato in sospeso fino al turno
+successivo di gioco.
+
+> Altri casi
+Quando non vengono abbattuti i dieci birilli con i due lanci
+a disposizione nel frame, il punteggio prevede la semplice somma
+matematica del totale dei birilli abbattuti. In questo caso si dice
+che il giocatore ha commesso un errore, a meno che i birilli
+lasciati in piedi dopo il primo lancio non rappresentino uno “split”.
+
+> Lo Split
+Si parla di split quando il birillo in cima (n.1) è abbattuto
+al primo tiro, però sono rimasti dei birilli in piedi distanziati
+orrizontalmente fra loro. Il punteggio del primo tiro viene
+cerchiato in rosso per ricordare lo split. Se il giocatore
+riesce ad abbattere tutti i birilli di uno split, in gergo
+tecnico si parla di Killer Shot.
+
+
+COME TIRARE
+
+Il giocatore prende la rincorsa nella zona iniziale della pista,
+chiamata zona di lancio (approach). Quest’area della pista finisce
+con una riga, la linea di fallo, che non può essere superata o
+toccata dal giocatore. Nel caso in cui il giocatore superi questa
+linea commette un fallo ed il punteggio del tiro è pari a zero.
+Viene indicato con una F in corrispondenza del piccolo riquadro,
+a destra o a sinistra a seconda se si tratti del primo o secondo
+lancio, del frame in cui viene realizzato. La pista è delimitata,
+sia a destra che a sinistra, da due canali (Gutters) che raccolgono
+la boccia nel caso in cui il lancio avesse una traiettoria sbagliata;
+in questo caso il punteggio è pari a zero.
+
+
+
+Fonte: http://www.bowling71.com/regole.php
